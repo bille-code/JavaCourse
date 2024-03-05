@@ -33,6 +33,10 @@ public class HolaMundo {
         tendrá que agregar el tipo de dato que almacenara la variable.
         */
         
+        /*
+        prueba git
+        */
+        
         var miVariableEntera2 = 15;
         System.out.println(miVariableEntera2);
 

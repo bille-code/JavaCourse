@@ -53,6 +53,9 @@ public class conversionTipos {
         var edadTexto = String.valueOf(10);
         System.out.println("edadTexto = " + edadTexto);
         
+        var caracter = "hola".charAt(0);
+        System.out.println("caracter = " + caracter);
+        
     }
 
 }
